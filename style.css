@@ -32,12 +32,12 @@ hr {
     padding:1rem 2rem;
 }
 
-.d-flex {
+.link {
     justify-content: center;
     margin: 30vh;
 }
 
-.btn-primary:hover {
+.link:hover {
     background-color: #F05F44;
     cursor: pointer;
     border-color: #ee4b08;
