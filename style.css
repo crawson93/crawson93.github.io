@@ -30,14 +30,12 @@ hr {
     text-transform: uppercase;
     border-radius: 300px;
     padding:1rem 2rem;
-}
-
-.link {
     justify-content: center;
-    margin: 30vh;
+    margin: 5vh;
 }
 
-.link:hover {
+
+.btn-primary:hover {
     background-color: #F05F44;
     cursor: pointer;
     border-color: #ee4b08;
